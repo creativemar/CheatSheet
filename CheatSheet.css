@@ -1,0 +1,30 @@
+table, th, td {
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    padding: 15px;
+    width: 700px;
+  }
+  
+  * {
+      font-family: Helvetica;
+  }
+
+  table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+  thead {
+      text-align: center;
+      background-color: #04AA6D;
+      color: white;
+      font-weight: bold;
+  }
+
+  h1, h2, p {
+      text-align: center;
+  }
+
+  h2 {
+      color: #04AA6D;
+  }
